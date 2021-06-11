@@ -1,4 +1,4 @@
-Collection of online articles, news, ..., from [slashdot](https://slashdot.org/), [Google Developers Blog](https://developers.googleblog.com/), [MEDIUM](https://medium.com/), [Smashing Magazine](https://www.smashingmagazine.com/), [Hacker News](https://news.ycombinator.com/), [I Programmer Weekly](https://www.i-programmer.info/i-programmer-weekly), [
+Collection of online articles, news, ..., from [slashdot](https://slashdot.org/), [Google Developers Blog](https://developers.googleblog.com/), [Smashing Magazine](https://www.smashingmagazine.com/), [Hacker News](https://news.ycombinator.com/), [I Programmer Weekly](https://www.i-programmer.info/i-programmer-weekly), [
 HelloGitHub](https://hellogithub.com/), [每日时报](https://wubaiqing.github.io/zaobao/), [阿里妈妈前端快爆](https://zhuanlan.zhihu.com/mm-fe)
 
 # April 2021
