@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# August 2021
+## [08/01/2021](2021/0801.md)
+
 # July 2021
 ## [07/25/2021](2021/0725.md)
 ## [07/18/2021](2021/0718.md)
