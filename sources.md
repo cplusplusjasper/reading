@@ -20,3 +20,5 @@
 [科技爱好者周刊](https://github.com/ruanyf/weekly)
 
 [每日时报](https://wubaiqing.github.io/zaobao/)
+
+[鱼塘热榜](https://mo.fish/)
