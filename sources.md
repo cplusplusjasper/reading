@@ -11,6 +11,8 @@
 
 [I Programmer Weekly](https://www.i-programmer.info/i-programmer-weekly)
 
+[OSCHINA](https://www.oschina.net/)
+
 [slashdot](https://slashdot.org/)
 
 [Smashing Magazine](https://www.smashingmagazine.com/)
