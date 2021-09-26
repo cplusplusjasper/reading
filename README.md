@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# October 2021
+## [10/03/2021](2021/1003.md)
+
 # September 2021
 ## [09/26/2021](2021/0926.md)
 ## [09/19/2021](2021/0919.md)
