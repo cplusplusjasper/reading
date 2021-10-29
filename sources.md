@@ -5,8 +5,6 @@
 
 [Google Developers Blog](https://developers.googleblog.com/)
 
-[github-rank](https://github.com/jaywcjlove/github-rank)
-
 [Hacker News](https://news.ycombinator.com/)
 
 [HelloGitHub](https://hellogithub.com/)
@@ -18,8 +16,6 @@
 [slashdot](https://slashdot.org/)
 
 [Smashing Magazine](https://www.smashingmagazine.com/)
-
-[阿里妈妈前端快爆](https://zhuanlan.zhihu.com/mm-fe)
 
 [掘金](https://juejin.cn/)
 
