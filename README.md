@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# November 2021
+## [11/07/2021](2021/1107.md)
+
 # October 2021
 ## [10/31/2021](2021/1031.md): point cloud libraries, freecodecamp
 ## [10/24/2021](2021/1024.md)
