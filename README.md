@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # November 2021
-## [11/07/2021](2021/1107.md): Teaching Kids Programming, show me the code
+## [11/07/2021](2021/1107.md): Teaching Kids Programming, show me the code, 3D PDF
 
 # October 2021
 ## [10/31/2021](2021/1031.md): point cloud libraries, freecodecamp
@@ -13,7 +13,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 # September 2021
 ## [09/26/2021](2021/0926.md)
 ## [09/19/2021](2021/0919.md)
-## [09/12/2021](2021/0912.md)
+## [09/12/2021](2021/0912.md): tech-interview-handbook
 ## [09/05/2021](2021/0905.md)
 
 # August 2021
