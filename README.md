@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # November 2021
+## [11/14/2021](2021/1114.md)
 ## [11/07/2021](2021/1107.md): Teaching Kids Programming, show me the code, 3D PDF
 
 # October 2021
