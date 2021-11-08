@@ -21,7 +21,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [08/29/2021](2021/0829.md): meshoptimizer
 ## [08/22/2021](2021/0822.md)
 ## [08/15/2021](2021/0815.md)
-## [08/08/2021](2021/0808.md)
+## [08/08/2021](2021/0808.md): openpilot
 ## [08/01/2021](2021/0801.md)
 
 # July 2021
