@@ -13,13 +13,13 @@ Collection of articles, news, ..., from [the websites](sources.md)
 
 # September 2021
 ## [09/26/2021](2021/0926.md)
-## [09/19/2021](2021/0919.md)
-## [09/12/2021](2021/0912.md): tech-interview-handbook
+## [09/19/2021](2021/0919.md): python-mini-projects
+## [09/12/2021](2021/0912.md): tech-interview-handbook, autoremesher
 ## [09/05/2021](2021/0905.md)
 
 # August 2021
 ## [08/29/2021](2021/0829.md): meshoptimizer
-## [08/22/2021](2021/0822.md)
+## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG
 ## [08/15/2021](2021/0815.md)
 ## [08/08/2021](2021/0808.md): openpilot
 ## [08/01/2021](2021/0801.md)
