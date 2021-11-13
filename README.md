@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # November 2021
-## [11/14/2021](2021/1114.md)
+## [11/14/2021](2021/1114.md): MyTinySTL, calculator, awesome-math, doxygen
 ## [11/07/2021](2021/1107.md): Teaching Kids Programming, show me the code, 3D PDF
 
 # October 2021
@@ -32,7 +32,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 
 # June 2021
 ## [06/27/2021](2021/0627.md): meshio, PolyFit
-## [06/20/2021](2021/0620.md)
+## [06/20/2021](2021/0620.md): CppTemplateTutorial
 ## [06/13/2021](2021/0613.md)
 ## [06/06/2021](2021/0606.md)
 
