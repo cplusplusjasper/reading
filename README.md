@@ -38,9 +38,9 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [06/06/2021](2021/0606.md)
 
 # May 2021
-## [05/30/2021](2021/0530.md): vscode-drawio
+## [05/30/2021](2021/0530.md): vscode-drawio, gitui
 ## [05/23/2021](2021/0523.md)
-## [05/16/2021](2021/0516.md)
+## [05/16/2021](2021/0516.md): PySimpleGUI, winapi-rs, Cockroach University
 ## [05/09/2021](2021/0509.md): Find open access journals & articles
 ## [05/02/2021](2021/0502.md): Programmer Humor
 
