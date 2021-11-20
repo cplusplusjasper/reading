@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # November 2021
-## [11/21/2021](2021/1121.md): fTetWild
+## [11/21/2021](2021/1121.md): fTetWild, rust
 ## [11/14/2021](2021/1114.md): MyTinySTL, calculator, awesome-math, doxygen
 ## [11/07/2021](2021/1107.md): Teaching Kids Programming, show me the code, 3D PDF
 
@@ -10,7 +10,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [10/24/2021](2021/1024.md)
 ## [10/17/2021](2021/1017.md)
 ## [10/10/2021](2021/1010.md)
-## [10/03/2021](2021/1003.md): system design
+## [10/03/2021](2021/1003.md): system design, Python-100-Days
 
 # September 2021
 ## [09/26/2021](2021/0926.md)
@@ -20,7 +20,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 
 # August 2021
 ## [08/29/2021](2021/0829.md): meshoptimizer
-## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG
+## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG, papers-we-love
 ## [08/15/2021](2021/0815.md)
 ## [08/08/2021](2021/0808.md): openpilot
 ## [08/01/2021](2021/0801.md)
