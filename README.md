@@ -7,7 +7,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [11/07/2021](2021/1107.md): Teaching Kids Programming, show me the code, 3D PDF
 
 # October 2021
-## [10/31/2021](2021/1031.md): point cloud libraries, freecodecamp
+## [10/31/2021](2021/1031.md): point cloud libraries, freecodecamp, git-flight-rules
 ## [10/24/2021](2021/1024.md): CTK, MITK, Data-Science-For-Beginners
 ## [10/17/2021](2021/1017.md): ttk, VTK
 ## [10/10/2021](2021/1010.md): daily-featured
