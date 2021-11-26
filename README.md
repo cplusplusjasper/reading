@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # November 2021
-## [11/28/2021](2021/1128.md): filament
+## [11/28/2021](2021/1128.md): filament, glm
 ## [11/21/2021](2021/1121.md): fTetWild, rust, newsletter-list, cht.sh
 ## [11/14/2021](2021/1114.md): MyTinySTL, calculator, awesome-math, doxygen
 ## [11/07/2021](2021/1107.md): Teaching Kids Programming, show me the code, 3D PDF
@@ -17,7 +17,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [09/26/2021](2021/0926.md): rapidcsv
 ## [09/19/2021](2021/0919.md): python-mini-projects
 ## [09/12/2021](2021/0912.md): tech-interview-handbook, autoremesher
-## [09/05/2021](2021/0905.md): cgal
+## [09/05/2021](2021/0905.md): cgal, bgfx
 
 # August 2021
 ## [08/29/2021](2021/0829.md): meshoptimizer
