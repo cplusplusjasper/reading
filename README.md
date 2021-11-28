@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # November 2021
-## [11/28/2021](2021/1128.md): filament, glm, toybox
+## [11/28/2021](2021/1128.md): filament, glm, toybox, books-collection, Z-Library
 ## [11/21/2021](2021/1121.md): fTetWild, rust, newsletter-list, cht.sh
 ## [11/14/2021](2021/1114.md): MyTinySTL, calculator, awesome-math, doxygen
 ## [11/07/2021](2021/1107.md): Teaching Kids Programming, show me the code, 3D PDF
@@ -24,7 +24,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG, papers-we-love
 ## [08/15/2021](2021/0815.md): egui
 ## [08/08/2021](2021/0808.md): openpilot
-## [08/01/2021](2021/0801.md): conan
+## [08/01/2021](2021/0801.md): conan, freeCodeCamp
 
 # July 2021
 ## [07/25/2021](2021/0725.md): MathGeoLib, MOAB, awesome-python-applications
@@ -39,7 +39,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [06/06/2021](2021/0606.md): JimuReport
 
 # May 2021
-## [05/30/2021](2021/0530.md): vscode-drawio, gitui
+## [05/30/2021](2021/0530.md): vscode-drawio, gitui, free-programming-books
 ## [05/23/2021](2021/0523.md): Ideas for Computing
 ## [05/16/2021](2021/0516.md): PySimpleGUI, winapi-rs, Cockroach University
 ## [05/09/2021](2021/0509.md): Find open access journals & articles
