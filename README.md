@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2021
-## [12/05/2021](2021/1205.md): 
+## [12/05/2021](2021/1205.md): awesome, the-art-of-command-line
 
 # November 2021
 ## [11/28/2021](2021/1128.md): filament, glm, toybox, books-collection, Z-Library
