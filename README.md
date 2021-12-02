@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2021
-## [12/05/2021](2021/1205.md): awesome, the-art-of-command-line
+## [12/05/2021](2021/1205.md): awesome, the-art-of-command-line, betterbib
 
 # November 2021
 ## [11/28/2021](2021/1128.md): filament, glm, toybox, books-collection, Z-Library
@@ -38,8 +38,8 @@ Collection of articles, news, ..., from [the websites](sources.md)
 # June 2021
 ## [06/27/2021](2021/0627.md): meshio, PolyFit
 ## [06/20/2021](2021/0620.md): CppTemplateTutorial, 100-gdb-tips
-## [06/13/2021](2021/0613.md): xournalpp, geometry-processing-csc2520
-## [06/06/2021](2021/0606.md): JimuReport
+## [06/13/2021](2021/0613.md): xournalpp, geometry-processing-csc2520, common-3d-test-models
+## [06/06/2021](2021/0606.md): JimuReport, lazygit
 
 # May 2021
 ## [05/30/2021](2021/0530.md): vscode-drawio, gitui, free-programming-books
