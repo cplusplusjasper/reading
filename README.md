@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2021
-## [12/05/2021](2021/1205.md): awesome, the-art-of-command-line, betterbib
+## [12/05/2021](2021/1205.md): awesome, the-art-of-command-line, betterbib, mmg, CMake
 
 # November 2021
 ## [11/28/2021](2021/1128.md): filament, glm, toybox, books-collection, Z-Library
@@ -27,7 +27,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG, papers-we-love
 ## [08/15/2021](2021/0815.md): egui
 ## [08/08/2021](2021/0808.md): openpilot
-## [08/01/2021](2021/0801.md): conan, freeCodeCamp
+## [08/01/2021](2021/0801.md): conan, freeCodeCamp, vcpkg
 
 # July 2021
 ## [07/25/2021](2021/0725.md): MathGeoLib, MOAB, awesome-python-applications
