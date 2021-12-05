@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2021
+## [12/12/2021](2021/1212.md):
 ## [12/05/2021](2021/1205.md): awesome, the-art-of-command-line, betterbib, mmg, CMake
 
 # November 2021
