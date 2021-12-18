@@ -1,8 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2021
-## [12/19/2021](2021/1219.md):
-## [12/12/2021](2021/1212.md): pybind11, jynew, Cython, WantWords
+## [12/19/2021](2021/1219.md): buckaroo, cython
+## [12/12/2021](2021/1212.md): pybind11, jynew, WantWords
 ## [12/05/2021](2021/1205.md): awesome, the-art-of-command-line, betterbib, mmg, CMake
 
 # November 2021
@@ -25,7 +25,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [09/05/2021](2021/0905.md): cgal, bgfx
 
 # August 2021
-## [08/29/2021](2021/0829.md): meshoptimizer
+## [08/29/2021](2021/0829.md): meshoptimizer, imgui
 ## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG, papers-we-love
 ## [08/15/2021](2021/0815.md): egui
 ## [08/08/2021](2021/0808.md): openpilot
