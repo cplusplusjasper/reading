@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2021
-## [12/26/2021](2021/1226.md): meson, ninja
+## [12/26/2021](2021/1226.md): goxel, meson, ninja
 ## [12/19/2021](2021/1219.md): buckaroo, cython, Bottles
 ## [12/12/2021](2021/1212.md): pybind11, jynew, WantWords
 ## [12/05/2021](2021/1205.md): awesome, the-art-of-command-line, betterbib, mmg, CMake
