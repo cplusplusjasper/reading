@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# January 2022
+## [01/02/2022](2022/0102.md):
+
 # December 2021
 ## [12/26/2021](2021/1226.md): goxel, meson, ninja, matplotplusplus, OpenBLAS
 ## [12/19/2021](2021/1219.md): buckaroo, cython, Bottles
