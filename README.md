@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # January 2022
-## [01/02/2022](2022/0102.md):
+## [01/02/2022](2022/0102.md): leetcode-master, poly2tri, quadsort
 
 # December 2021
 ## [12/26/2021](2021/1226.md): goxel, meson, ninja, matplotplusplus, OpenBLAS
@@ -29,9 +29,9 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [09/05/2021](2021/0905.md): cgal, bgfx
 
 # August 2021
-## [08/29/2021](2021/0829.md): meshoptimizer, imgui
+## [08/29/2021](2021/0829.md): meshoptimizer, imgui, sealos
 ## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG, papers-we-love
-## [08/15/2021](2021/0815.md): egui
+## [08/15/2021](2021/0815.md): egui, nanoflann
 ## [08/08/2021](2021/0808.md): openpilot
 ## [08/01/2021](2021/0801.md): conan, freeCodeCamp, vcpkg
 
@@ -48,7 +48,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [06/06/2021](2021/0606.md): JimuReport, lazygit
 
 # May 2021
-## [05/30/2021](2021/0530.md): vscode-drawio, gitui, free-programming-books
+## [05/30/2021](2021/0530.md): vscode-drawio, gitui, free-programming-books, libtorrent
 ## [05/23/2021](2021/0523.md): Ideas for Computing
 ## [05/16/2021](2021/0516.md): PySimpleGUI, winapi-rs, Cockroach University
 ## [05/09/2021](2021/0509.md): Find open access journals & articles
