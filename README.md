@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # January 2022
-## [01/09/2022](2022/0109.md): vmtk, VisIt
+## [01/09/2022](2022/0109.md): vmtk, VisIt, gdb-frontend, tensorflow
 ## [01/02/2022](2022/0102.md): leetcode-master, poly2tri, quadsort, CloudCompare, calculix, tinyspline
 
 # December 2021
@@ -31,7 +31,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 
 # August 2021
 ## [08/29/2021](2021/0829.md): meshoptimizer, imgui, sealos
-## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG, papers-we-love
+## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG, papers-we-love, pytorch
 ## [08/15/2021](2021/0815.md): egui, nanoflann
 ## [08/08/2021](2021/0808.md): openpilot
 ## [08/01/2021](2021/0801.md): conan, freeCodeCamp, vcpkg
