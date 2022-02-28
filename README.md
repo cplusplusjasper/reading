@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # March 2022
-## [03/06/2022](2022/0306.md):
+## [03/06/2022](2022/0306.md): chibicc
 
 # February 2022
 ## [02/27/2022](2022/0227.md): preserve-cd
