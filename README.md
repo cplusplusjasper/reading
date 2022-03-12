@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # March 2022
-## [03/13/2022](2022/0313.md): rust-by-practice, codefever, RustBook
+## [03/13/2022](2022/0313.md): xmnlp, rust-by-practice, codefever, RustBook
 ## [03/06/2022](2022/0306.md): chibicc
 
 # February 2022
@@ -50,7 +50,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [08/01/2021](2021/0801.md): conan, freeCodeCamp, vcpkg
 
 # July 2021
-## [07/25/2021](2021/0725.md): MathGeoLib, MOAB, awesome-python-applications
+## [07/25/2021](2021/0725.md): MathGeoLib, MOAB, awesome-python-applications, LxgwWenKai
 ## [07/18/2021](2021/0718.md): ruffle, opennurbs
 ## [07/11/2021](2021/0711.md): workflow, computer-science, MIT OpenCourseWare, The Stack Overflow Podcast
 ## [07/04/2021](2021/0704.md): cinolib, chinese-poetry, ML-For-Beginners
