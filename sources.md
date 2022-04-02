@@ -24,3 +24,5 @@
 [每日时报](https://wubaiqing.github.io/zaobao/)
 
 [鱼塘热榜](https://mo.fish/)
+
+[野生架构师](https://www.getrevue.co/profile/lcomplete)
