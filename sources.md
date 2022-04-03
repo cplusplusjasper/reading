@@ -1,10 +1,6 @@
 # Sources
 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
 
-[DiscoverDev.io](https://www.discoverdev.io/)
-
-[Google Developers Blog](https://developers.googleblog.com/)
-
 [Hacker News](https://news.ycombinator.com/)
 
 [HelloGitHub](https://hellogithub.com/)
