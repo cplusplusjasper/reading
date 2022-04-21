@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # April 2022
-## [04/24/2022](2022/0424.md): awesome-podcasts
+## [04/24/2022](2022/0424.md): awesome-podcasts, tinyrenderer
 ## [04/17/2022](2022/0417.md): lexical
 ## [04/10/2022](2022/0410.md): Pilot, BaseMap, awesome-open-source-games
 ## [04/03/2022](2022/0403.md): free-programming-books-zh_CN, rembg, flash-linux0.11-talk
