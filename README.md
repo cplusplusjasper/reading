@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # May 2022
-## [05/08/2022](2022/0508.md):
+## [05/08/2022](2022/0508.md): weekly.manong.io, Geographical-Adventures
 ## [05/01/2022](2022/0501.md): LibrePCB, webots
 
 # April 2022
