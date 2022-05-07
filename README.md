@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # May 2022
-## [05/08/2022](2022/0508.md): weekly.manong.io, Geographical-Adventures
+## [05/08/2022](2022/0508.md): weekly.manong.io, Geographical-Adventures, interviews.ai
 ## [05/01/2022](2022/0501.md): LibrePCB, webots
 
 # April 2022
@@ -64,7 +64,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 # July 2021
 ## [07/25/2021](2021/0725.md): MathGeoLib, MOAB, awesome-python-applications, LxgwWenKai
 ## [07/18/2021](2021/0718.md): ruffle, opennurbs
-## [07/11/2021](2021/0711.md): workflow, computer-science, MIT OpenCourseWare, The Stack Overflow Podcast
+## [07/11/2021](2021/0711.md): workflow, computer-science, MIT OpenCourseWare, The Stack Overflow Podcast, o3de
 ## [07/04/2021](2021/0704.md): cinolib, chinese-poetry, ML-For-Beginners
 
 # June 2021
