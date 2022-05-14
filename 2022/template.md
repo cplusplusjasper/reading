@@ -1,5 +1,7 @@
 # 00/00/0000
 
+## Books
+
 ## News
 
 ## Opinions
@@ -10,12 +12,9 @@
 
 ## Showcases
 
-
 ## Stories
 
-
 ## Strategies
-
 
 ## Studies
 
