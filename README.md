@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # May 2022
-## [05/22/2022](2022/0522p.md): wttr.in, cocos2d-x
+## [05/22/2022](2022/0522p.md): wttr.in, cocos2d-x, GraphBLAS
 ## [05/15/2022](2022/0515.md): QR-Code-generator, python-qrcode, ML-Course-Notes, 3Blue1Brown, llvm-project
 ## [05/08/2022](2022/0508.md): weekly.manong.io, Geographical-Adventures, interviews.ai
 ## [05/01/2022](2022/0501.md): LibrePCB, webots
@@ -29,7 +29,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [01/23/2022](2022/0123.md): gdstk, polyscope, pmp-library
 ## [01/16/2022](2022/0116.md): TinyXML2, Xerces-C++, fftw3
 ## [01/09/2022](2022/0109.md): vmtk, VisIt, gdb-frontend, tensorflow
-## [01/02/2022](2022/0102.md): leetcode-master, poly2tri, quadsort, CloudCompare, calculix, tinyspline
+## [01/02/2022](2022/0102.md): leetcode-master, poly2tri, quadsort, CloudCompare, calculix, tinyspline, SuiteSparse
 
 # December 2021
 ## [12/26/2021](2021/1226.md): goxel, meson, ninja, matplotplusplus, OpenBLAS
