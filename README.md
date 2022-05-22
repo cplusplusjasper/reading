@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # May 2022
+## [05/29/2022](2022/0529.md):
 ## [05/22/2022](2022/0522.md): wttr.in, cocos2d-x, GraphBLAS, v86
 ## [05/15/2022](2022/0515.md): QR-Code-generator, python-qrcode, ML-Course-Notes, 3Blue1Brown, llvm-project
 ## [05/08/2022](2022/0508.md): weekly.manong.io, Geographical-Adventures, interviews.ai
