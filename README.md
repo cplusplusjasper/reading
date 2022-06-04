@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # June 2022
-## [06/05/2022](2022/0605.md): etcd, doxygen, wxWidgets
+## [06/05/2022](2022/0605.md): etcd, doxygen, wxWidgets, rr
 
 # May 2022
 ## [05/29/2022](2022/0529.md): opensource.guide, musikcube
