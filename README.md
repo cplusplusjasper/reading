@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # July 2022
-## [07/03/2022](2022/0703.md):
+## [07/03/2022](2022/0703.md): cpp-game-engine-book
 
 # June 2022
 ## [06/26/2022](2022/0626.md): chrono, 中国华文教育网, lib3mf
@@ -74,7 +74,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [08/01/2021](2021/0801.md): conan, freeCodeCamp, vcpkg
 
 # July 2021
-## [07/25/2021](2021/0725.md): MathGeoLib, MOAB, awesome-python-applications, LxgwWenKai
+## [07/25/2021](2021/0725.md): MathGeoLib, MOAB, awesome-python-applications, LxgwWenKai, project-based-learning
 ## [07/18/2021](2021/0718.md): ruffle, opennurbs
 ## [07/11/2021](2021/0711.md): workflow, computer-science, MIT OpenCourseWare, The Stack Overflow Podcast, o3de
 ## [07/04/2021](2021/0704.md): cinolib, chinese-poetry, ML-For-Beginners
