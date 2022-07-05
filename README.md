@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # July 2022
-## [07/10/2022](2022/0710.md):
+## [07/10/2022](2022/0710.md): every-programmer-should-know
 ## [07/03/2022](2022/0703.md): cpp-game-engine-book, MSLattice, 在线新华字典
 
 # June 2022
