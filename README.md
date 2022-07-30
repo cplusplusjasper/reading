@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # July 2022
-## [07/31/2022](2022/0731.md): standardebooks, yuindex, gb-studio
+## [07/31/2022](2022/0731.md): standardebooks, yuindex, gb-studio, ScreenToGif
 ## [07/24/2022](2022/0724.md): realnotcomplex, mpc-hc, beginners-series-rust
 ## [07/17/2022](2022/0717.md): bing-wallpaper
 ## [07/10/2022](2022/0710.md): every-programmer-should-know, software-papers
