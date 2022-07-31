@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# August 2022
+## [08/07/2022](2022/0807.md):
+
 # July 2022
 ## [07/31/2022](2022/0731.md): standardebooks, yuindex, gb-studio, ScreenToGif
 ## [07/24/2022](2022/0724.md): realnotcomplex, mpc-hc, beginners-series-rust
