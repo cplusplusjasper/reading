@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # August 2022
-## [08/07/2022](2022/0807.md): EasyRPG, awesome-cpp, awesome-hpp
+## [08/07/2022](2022/0807.md): EasyRPG, awesome-cpp, awesome-hpp, doublecmd
 
 # July 2022
 ## [07/31/2022](2022/0731.md): standardebooks, yuindex, gb-studio, ScreenToGif
