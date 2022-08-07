@@ -20,8 +20,6 @@
 
 ## Technologies
 
-## Travel
-
 ## Tutorials
 
 ## Videos
