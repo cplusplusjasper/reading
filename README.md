@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # August 2022
+## [08/21/2022](2022/0821.md):
 ## [08/14/2022](2022/0814.md):
 ## [08/07/2022](2022/0807.md): EasyRPG, awesome-cpp, awesome-hpp, doublecmd
 
