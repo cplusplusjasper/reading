@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # August 2022
-## [08/28/2022](2022/0828.md):
+## [08/28/2022](2022/0828.md): 前端精读周刊
 ## [08/21/2022](2022/0821.md): oPhysics, awk
 ## [08/14/2022](2022/0814.md):
 ## [08/07/2022](2022/0807.md): EasyRPG, awesome-cpp, awesome-hpp, doublecmd
