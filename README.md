@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# October 2022
+## [10/02/2022](2022/1002.md):
+
 # September 2022
 ## [09/25/2022](2022/0925.md): simple-icons
 ## [09/18/2022](2022/0918.md): PhotoDemon
