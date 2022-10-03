@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # October 2022
-## [10/09/2022](2022/1009.md):
+## [10/09/2022](2022/1009.md): iced
 ## [10/02/2022](2022/1002.md): gifsicle, kys-cpp, nginx-tutorial, seer
 
 # September 2022
