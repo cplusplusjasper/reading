@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # October 2022
+## [10/16/2022](2022/1016.md):
 ## [10/09/2022](2022/1009.md): iced, libsql
 ## [10/02/2022](2022/1002.md): gifsicle, kys-cpp, nginx-tutorial, seer
 
