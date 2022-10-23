@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # October 2022
+## [10/30/2022](2022/1030.md):
 ## [10/23/2022](2022/1023.md): ceres-solver, GitHub-Chinese-Top-Charts
 ## [10/16/2022](2022/1016.md): al-go-rithms
 ## [10/09/2022](2022/1009.md): iced, libsql
