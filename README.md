@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# November 2022
+## [11/06/2022](2022/1106.md):
+
 # October 2022
 ## [10/30/2022](2022/1030.md): Criterion
 ## [10/23/2022](2022/1023.md): ceres-solver, GitHub-Chinese-Top-Charts
