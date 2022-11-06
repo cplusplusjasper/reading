@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # November 2022
+## [11/13/2022](2022/1113.md): 
 ## [11/06/2022](2022/1106.md): AI-Expert-Roadmap
 
 # October 2022
