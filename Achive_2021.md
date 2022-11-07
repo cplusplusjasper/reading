@@ -15,7 +15,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 # October 2021
 ## [10/31/2021](2021/1031.md): point cloud libraries, freecodecamp, git-flight-rules
 ## [10/24/2021](2021/1024.md): CTK, MITK, Data-Science-For-Beginners
-## [10/17/2021](2021/1017.md): ttk, VTK
+## [10/17/2021](2021/1017.md): ttk, VTK, algorithm-visualizer
 ## [10/10/2021](2021/1010.md): daily-featured
 ## [10/03/2021](2021/1003.md): system design, Python-100-Days
 
