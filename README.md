@@ -10,7 +10,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [10/23/2022](2022/1023.md): ceres-solver, GitHub-Chinese-Top-Charts
 ## [10/16/2022](2022/1016.md): al-go-rithms
 ## [10/09/2022](2022/1009.md): iced, libsql
-## [10/02/2022](2022/1002.md): gifsicle, kys-cpp, nginx-tutorial, seer
+## [10/02/2022](2022/1002.md): gifsicle, kys-cpp, nginx-tutorial, seer, rbush
 
 # September 2022
 ## [09/25/2022](2022/0925.md): simple-icons
