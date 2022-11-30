@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2022
-## [12/04/2022](2022/1204.md): dsq, parsing-techniques
+## [12/04/2022](2022/1204.md): dsq, parsing-techniques, Best-websites-a-programmer-should-visit
 
 # November 2022
 ## [11/27/2022](2022/1127.md): d2, maui
