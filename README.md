@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2022
-## [12/25/2022](2022/1225.md):
+## [12/25/2022](2022/1225.md): hello-algo
 ## [12/18/2022](2022/1218.md): awesome-design-patterns
 ## [12/11/2022](2022/1211.md):
 ## [12/04/2022](2022/1204.md): dsq, parsing-techniques, Best-websites-a-programmer-should-visit, blockbench
