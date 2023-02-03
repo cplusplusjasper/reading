@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # February 2023
-## [02/25/2023](2023/0205.md):
+## [02/25/2023](2023/0205.md): ChatRWKV
 
 # January 2023
 ## [01/29/2023](2023/0129.md): nn-zero-to-hero, SeeSharpSnake, KuiperInfer
