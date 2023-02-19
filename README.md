@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # February 2023
-## [02/19/2023](2023/0219.md): some-assembly-required
+## [02/19/2023](2023/0219.md): some-assembly-required, CAD_Sketcher
 ## [02/12/2023](2023/0212.md): pocketpy, Magic-Sand, Open-Assistant, dslcad, Programmers-Overseas-Job-Interview-Handbook
 ## [02/05/2023](2023/0205.md): ChatRWKV
 
