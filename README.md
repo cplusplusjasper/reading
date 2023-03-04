@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # March 2023
-## [03/05/2023](2023/0226.md): algorithmica, doctest, sds, sqlean
+## [03/05/2023](2023/0226.md): algorithmica, doctest, sds, sqlean, micro-lisp
 
 # February 2023
 ## [02/26/2023](2023/0226.md): automl, Learn-Vim
