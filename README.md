@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # March 2023
+## [03/12/2023](2023/0312.md):
 ## [03/05/2023](2023/0305.md): algorithmica, doctest, sds, sqlean, micro-lisp
 
 # February 2023
