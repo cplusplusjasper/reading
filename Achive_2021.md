@@ -23,7 +23,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [09/26/2021](2021/0926.md): rapidcsv
 ## [09/19/2021](2021/0919.md): python-mini-projects
 ## [09/12/2021](2021/0912.md): tech-interview-handbook, autoremesher
-## [09/05/2021](2021/0905.md): cgal, bgfx
+## [09/05/2021](2021/0905.md): cgal, bgfx, cppbestpractices
 
 # August 2021
 ## [08/29/2021](2021/0829.md): meshoptimizer, imgui, sealos
