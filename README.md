@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # March 2023
-## [03/26/2023](2023/0326.md):
+## [03/26/2023](2023/0326.md): typst
 ## [03/19/2023](2023/0319.md): asm_book
 ## [03/12/2023](2023/0312.md): llama.cpp, EffectivePyTorch
 ## [03/05/2023](2023/0305.md): algorithmica, doctest, sds, sqlean, micro-lisp
