@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # April 2023
-## [04/02/2023](2023/0402.md):
+## [04/02/2023](2023/0402.md): gpt4all
 
 # March 2023
 ## [03/26/2023](2023/0326.md): typst
