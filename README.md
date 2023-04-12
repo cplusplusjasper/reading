@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # April 2023
-## [04/16/2023](2023/0416.md):
+## [04/16/2023](2023/0416.md): alpaca.cpp
 ## [04/09/2023](2023/0409.md): blend2d, segment-anything
 ## [04/02/2023](2023/0402.md): gpt4all
 
