@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # May 2023
-## [05/28/2023](2023/0528.md): devhome, reactos
+## [05/28/2023](2023/0528.md): devhome, reactos, ChineseChess
 ## [05/21/2023](2023/0521.md): FastCAE, dify, linux
 ## [05/14/2023](2023/0514.md): iEDA
 ## [05/07/2023](2023/0507.md):
