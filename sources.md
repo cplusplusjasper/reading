@@ -13,6 +13,8 @@
 
 [Smashing Magazine](https://www.smashingmagazine.com/)
 
+[潮流周刊](https://weekly.tw93.fun/)
+
 [掘金](https://juejin.cn/)
 
 [科技爱好者周刊](https://github.com/ruanyf/weekly)
