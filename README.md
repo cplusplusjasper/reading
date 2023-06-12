@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # June 2023
-## [06/18/2023](2023/0618.md):
+## [06/18/2023](2023/0618.md): kokkos
 ## [06/11/2023](2023/0611.md): awfice, sqlite-gui, inkscape, mlc-llm
 ## [06/04/2023](2023/0604.md): oidn, ML-Papers-of-the-Week, linux-insides
 
