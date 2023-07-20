@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# July 2023
+## [07/23/2023](2023/0723.md): How-To-Ask-Questions-The-Smart-Way, python-mastery
+
 # June 2023
 ## [06/25/2023](2023/0625.md): Tars
 ## [06/18/2023](2023/0618.md): kokkos
