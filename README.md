@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # July 2023
-## [07/30/2023](2023/0730.md): llama2.c
+## [07/30/2023](2023/0730.md): llama2.c, 100-Days-Of-ML-Code
 ## [07/23/2023](2023/0723.md): How-To-Ask-Questions-The-Smart-Way, python-mastery
 
 # June 2023
