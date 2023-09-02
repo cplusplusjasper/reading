@@ -26,7 +26,7 @@ Collection of articles, news, ..., from [the websites](sources.md)
 ## [09/05/2021](2021/0905.md): cgal, bgfx, cppbestpractices
 
 # August 2021
-## [08/29/2021](2021/0829.md): meshoptimizer, imgui, sealos
+## [08/29/2021](2021/0829.md): meshoptimizer, imgui, sealos, influential-cs-books
 ## [08/22/2021](2021/0822.md): build-your-own-x, meshlab, USTC_CG, papers-we-love, pytorch
 ## [08/15/2021](2021/0815.md): egui, nanoflann
 ## [08/08/2021](2021/0808.md): openpilot
