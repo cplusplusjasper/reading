@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # August 2023
-## [09/03/2023](2023/0903.md): ncnn, vnote, awesome-c
+## [09/03/2023](2023/0903.md): ncnn, vnote, awesome-c, WindowsInternals
 
 # August 2023
 ## [08/27/2023](2023/0827.md): gravity, codellama

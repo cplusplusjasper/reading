@@ -15,6 +15,10 @@
 
 [潮流周刊](https://weekly.tw93.fun/)
 
+[独立开发变现周刊](https://github.com/ljinkai/weekly)
+
+[各知名科技公司技术博客合集(持续更新) · 土猛的员外](https://luxiangdong.com/2023/07/20/techblog/)
+
 [掘金](https://juejin.cn/)
 
 [科技爱好者周刊](https://github.com/ruanyf/weekly)
