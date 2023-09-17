@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
-# August 2023
+# September 2023
+## [09/24/2023](2023/0924.md):
 ## [09/17/2023](2023/0917.md): open-geo-modeller, love, AutoHotkey
 ## [09/10/2023](2023/0910.md): raylib, build-your-own-x
 ## [09/03/2023](2023/0903.md): ncnn, vnote, awesome-c, WindowsInternals
