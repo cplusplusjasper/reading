@@ -7,6 +7,8 @@
 
 [I Programmer Weekly](https://www.i-programmer.info/i-programmer-weekly)
 
+[Lifehacker - Do everything better](https://lifehacker.com/)
+
 [OSCHINA](https://www.oschina.net/)
 
 [slashdot](https://slashdot.org/)
