@@ -1,6 +1,8 @@
 # Sources
 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
 
+[Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)
+
 [Hacker News](https://news.ycombinator.com/)
 
 [HelloGitHub](https://hellogithub.com/)
