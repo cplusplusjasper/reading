@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # October 2023
-## [10/01/2023](2023/1001.md):
+## [10/01/2023](2023/1001.md): openoffice, c4
 
 # September 2023
 ## [09/24/2023](2023/0924.md):
