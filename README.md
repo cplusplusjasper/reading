@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # October 2023
-## [10/08/2023](2023/1008.md):
+## [10/08/2023](2023/1008.md): contour
 ## [10/01/2023](2023/1001.md): openoffice, c4
 
 # September 2023
