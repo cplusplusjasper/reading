@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # October 2023
+## [10/29/2023](2023/1029.md):
 ## [10/22/2023](2023/1022.md): free-books, system-design-101
 ## [10/15/2023](2023/1015.md): LazyVim, MathJax-src
 ## [10/08/2023](2023/1008.md): contour
