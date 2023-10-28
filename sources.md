@@ -15,6 +15,8 @@
 
 [Smashing Magazine](https://www.smashingmagazine.com/)
 
+[TNT-Weekly](https://github.com/tnfe/TNT-Weekly)
+
 [潮流周刊](https://weekly.tw93.fun/)
 
 [独立开发变现周刊](https://github.com/ljinkai/weekly)
