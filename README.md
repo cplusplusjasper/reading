@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# November 2023
+## [11/05/2023](2023/1105.md):
+
 # October 2023
 ## [10/29/2023](2023/1029.md): clumsy, vlc, MuseScore
 ## [10/22/2023](2023/1022.md): free-books, system-design-101
