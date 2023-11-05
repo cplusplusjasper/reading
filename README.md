@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # November 2023
+## [11/12/2023](2023/1112.md):
 ## [11/05/2023](2023/1105.md):
 
 # October 2023
