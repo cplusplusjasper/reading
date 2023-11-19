@@ -2,6 +2,8 @@
 
 ## Books
 
+## Courses
+
 ## News
 
 ## Opinions

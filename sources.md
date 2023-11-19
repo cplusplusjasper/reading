@@ -24,5 +24,3 @@
 [掘金](https://juejin.cn/)
 
 [科技爱好者周刊](https://github.com/ruanyf/weekly)
-
-[鱼塘热榜](https://mo.fish/)
