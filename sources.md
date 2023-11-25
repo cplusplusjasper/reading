@@ -24,3 +24,5 @@
 [掘金](https://juejin.cn/)
 
 [科技爱好者周刊](https://github.com/ruanyf/weekly)
+
+[前端精读周刊](https://github.com/ascoders/weekly)
