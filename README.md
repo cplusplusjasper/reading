@@ -1,7 +1,10 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# December 2023
+## [12/03/2023](2023/1203.md): 
+
 # November 2023
-## [11//26/2023](2023/1126.md): awesome-database-learning
+## [11/26/2023](2023/1126.md): awesome-database-learning
 ## [11/19/2023](2023/1119.md): prettier
 ## [11/12/2023](2023/1112.md): monaspace
 ## [11/05/2023](2023/1105.md):
