@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2023
-## [12/03/2023](2023/1203.md): Modern-CPP-Programming
+## [12/03/2023](2023/1203.md): Modern-CPP-Programming, llamafile
 
 # November 2023
 ## [11/26/2023](2023/1126.md): awesome-database-learning
