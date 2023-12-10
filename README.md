@@ -1,6 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # December 2023
+## [12/17/2023](2023/1217.md):
 ## [12/10/2023](2023/1210.md): grpc
 ## [12/03/2023](2023/1203.md): Modern-CPP-Programming, llamafile
 
