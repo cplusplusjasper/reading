@@ -9,8 +9,6 @@
 
 [I Programmer Weekly](https://www.i-programmer.info/i-programmer-weekly)
 
-[Lifehacker - Do everything better](https://lifehacker.com/)
-
 [OSCHINA](https://www.oschina.net/)
 
 [slashdot](https://slashdot.org/)
@@ -24,5 +22,3 @@
 [掘金](https://juejin.cn/)
 
 [科技爱好者周刊](https://github.com/ruanyf/weekly)
-
-[前端精读周刊](https://github.com/ascoders/weekly)
