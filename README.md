@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # February 2024
-## [02/11/2024](2024/0211.md):
+## [02/11/2024](2024/0211.md): ollama
 ## [02/04/2024](2024/0204.md):
 
 # January 2024
