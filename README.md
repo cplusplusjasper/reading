@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # March
-## [03/03/2024](2024/0303.md): FlaxEngine
+## [03/03/2024](2024/0303.md): FlaxEngine, lammps
 
 # February 2024
 ## [02/25/2024](2024/0225.md): professional-programming, winscp, gemma.cpp
