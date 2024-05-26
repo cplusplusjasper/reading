@@ -1,5 +1,8 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
+# June
+## [06/02/2024](2024/0602.md):
+
 # May
 ## [05/26/2024](2024/0526.md):
 ## [05/19/2024](2024/0519.md): Bend
