@@ -1,7 +1,7 @@
 Collection of articles, news, ..., from [the websites](sources.md)
 
 # June
-## [06/16/2024](2024/0616.md):
+## [06/16/2024](2024/0616.md): povray
 ## [06/09/2024](2024/0609.md):
 ## [06/02/2024](2024/0602.md):
 
